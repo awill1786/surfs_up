@@ -5,7 +5,7 @@ The purpose of this analysis is to provide the client with temperature trends fo
 
 ## Results
 ![image](https://github.com/awill1786/surfs_up/blob/main/June%20Temps.png?raw=true) 
-[image]!
+![image](https://github.com/awill1786/surfs_up/blob/main/December%20Temps.png?raw=true)
 
 - Overall the temperatures are very similar between the 2 months with the average temperature in June being 74.9 degrees, while the average temperature in December is 71.04 degrees.
 - December features a greater desparity between its high and low temperatures as the temperatures can get as high as 83 degrees and as low as 56 degrees. June's high low and temperatures are between 85 degrees and 64 degrees.
