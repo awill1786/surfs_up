@@ -4,7 +4,7 @@
 The purpose of this analysis is to provide the client with temperature trends for the months of June and December, in order to determine if the surf and ice cream shop would be viable year-round.
 
 ## Results
-[image]! 
+![image](https://github.com/awill1786/surfs_up/blob/main/June%20Temps.png?raw=true) 
 [image]!
 
 - Overall the temperatures are very similar between the 2 months with the average temperature in June being 74.9 degrees, while the average temperature in December is 71.04 degrees.
